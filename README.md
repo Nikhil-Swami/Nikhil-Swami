@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nikhil-Swami
-- 👀 I’m interested in computer science engineering 
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning B.E CSE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
